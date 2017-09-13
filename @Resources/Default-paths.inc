@@ -1,0 +1,10 @@
+[Variables]
+; Default music player locations
+Spotify=["%APPDATA%\Roaming\Spotify\Spotify.exe"]
+iTunes=["C:\Program Files\iTunes\itunes.exe"]
+AIMP=["C:\Program Files (x86)\AIMP\AIMP.exe"]
+foobar2000["C:\Program Files (x86)\foobar2000\foobar2000.exe"]
+MediaMonkey=["C:\Program Files\MediaMonkey\MediaMonkey.exe"]
+MusicBee=["C:\Program Files\MusicBee\Musicbee.exe"]
+Winamp=["C:\ProgramFiles\Winamp\winamp.exe"]
+WindowsMediaPlayer=["%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe"]
