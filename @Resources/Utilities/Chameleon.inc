@@ -2,7 +2,6 @@
 Measure=Plugin
 Plugin=Chameleon
 Type=Desktop
-UpdateDivider=100
 
 [ChameleonFG1]
 Measure=Plugin
