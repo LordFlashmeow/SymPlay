@@ -10,7 +10,9 @@ UseDesktopColors=1
 ; Uses your desktop's background colors for the text. Requires refreshing the skin to take effect.
 
 DefaultMainColor=255,255,255
+CustomPrimaryColor=255,255,255
 ;If Dynamic Color is disabled, this is the color of the track and and artist
 
 DefaultAltColor=128,128,128
+CustomSecondaryColor=128,128,128
 ;If Dynamic Color is disabled, this is the color of the words "NOW PLAYING"
